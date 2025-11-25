@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ghulam%20Mustafa%20Bhatti&fontSize=60&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%20Engineer&descAlignY=51&descAlign=72"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Ghulam%20Mustafa%20Bhatti&fontSize=60&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%20Engineer&descAlignY=51&descAlign=72"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3596F5&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Optimizing+Backend+Performance;Mentoring+CS+Students;" alt="Typing SVG" />
@@ -69,10 +69,3 @@
 - **The Impact:** Created a robust AI opponent using randomized smart-move algorithms.
 - **Tech:** `JavaScript (ES6+)` `Jest` `HTML5/CSS3`
 
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" alt="coding gif" />
-  <br/>
-  <i>"Talk is cheap. Show me the code."</i>
-</div>
