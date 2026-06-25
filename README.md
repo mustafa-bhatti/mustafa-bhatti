@@ -1,20 +1,15 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=300&section=header&text=Ghulam%20Mustafa%20Bhatti&fontSize=60&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20%20Engineer&descAlignY=51&descAlign=72&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=300&section=header&text=Ghulam%20Mustafa%20Bhatti&fontSize=60&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Full-Stack%20Builder&descAlignY=51&descAlign=72&fontColor=ffffff"/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3596F5&center=true&vCenter=true&width=500&lines=Building+Scalable+MERN+Apps;Optimizing+Backend+Performance;Mentoring+CS+Students;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3596F5&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full-Stack+Systems;From+Frontend+to+Gemini+Microservices;Shipping+Products+Not+Just+Code;" alt="Typing SVG" />
 </a>
-
 <br/>
-
 <p align="center">
-  <em>CS Senior @ Forman Christian College | Teaching Assistant (Parallel Computing)</em><br/>
-  I engineer <b>secure, high-performance systems</b>. From optimizing database queries to sub-100ms latency<br/>
-  to eliminating frontend prop-drilling, I build software that scales.
+  <em>Junior AI/ML Engineer @ HOF Global | CS Graduate — FCCU '26 </em><br/>
+  I build <b>full-stack products with AI under the hood</b> — from telepsychology platforms with Gemini-powered assessments<br/>
+  to local RAG systems with zero data leakage. I ship end-to-end.
 </p>
-
 <br/>
-
 <p align="center">
   <a href="https://linkedin.com/in/mustafa-bhattil" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -26,7 +21,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 </div>
 
 ---
@@ -35,11 +29,12 @@
 
 <div align="center">
 
-| **Frontend Core** | **Backend Power** | **Data & Tools** |
-| :---: | :---: | :---: |
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) |
+| **Frontend** | **Backend** | **AI / ML** | **Data & Tools** |
+| :---: | :---: | :---: | :---: |
+| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) | ![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) | ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) | ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![pgvector](https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
 </div>
 
@@ -47,24 +42,32 @@
 
 ### 🏆 **Featured Engineering**
 
-#### 💰 **FinTrack - Real-time Finance Dashboard**
+#### 🧠 **PsychConnect — AI-Powered Telepsychology Platform** *(Final Year Project)*
+> *Full-Stack + AI Microservice Architecture*
+
+- **The Problem:** Mental health access in Pakistan is limited — patients struggle to find matched, affordable psychologists online.
+- **The Solution:** Built a complete telepsychology platform with **Next.js 16**, **Supabase**, and a standalone **FastAPI microservice** powered by **Google Gemini** for multimodal HTP drawing analysis and clinical questionnaire scoring.
+- **The Impact:** 21 view components across 3 portals (patient, psychologist, admin), a **100-point matchmaking algorithm**, defense-in-depth security with **PostgreSQL RLS**, and integrated **Safepay** payments + **Cal.com** video scheduling.
+- **Tech:** `Next.js` `TypeScript` `Supabase` `FastAPI` `Gemini AI` `TanStack Query` `shadcn/ui` `Safepay` `Cal.com`
+
+#### 📄 **Easy-PDF — Privacy-First Local RAG System**
+> *Event-Driven Architecture + Vector Search*
+
+- **The Problem:** Existing PDF chat tools send your documents to third-party servers — a dealbreaker for sensitive data.
+- **The Solution:** Architected a **local-first RAG system** using **Ollama** for on-device inference, **BullMQ** workers to decouple heavy processing, and **pgvector** for semantic search.
+- **The Impact:** Zero data leakage, non-blocking API via event-driven background workers, and high-performance vector retrieval for LLM context.
+- **Tech:** `Node.js` `LangChain` `PostgreSQL` `pgvector` `Redis` `BullMQ` `Docker` `Ollama`
+
+#### 💰 **FinTrack — Real-Time Finance Dashboard**
 > *Architecture & Performance Optimization*
-- **The Challenge:** Users needed real-time financial insights without page reloads.
+
+- **The Problem:** Users needed real-time financial insights without page reloads.
 - **The Solution:** Architected a **MERN** dashboard using **MongoDB Aggregation Pipelines** for data processing.
 - **The Impact:** Achieved **sub-100ms** report generation latency and secured data with **JWT & RBAC**.
-- **Tech:** `React` `Node.js` `MongoDB` `Tailwind`
+- **Tech:** `React` `Node.js` `Express` `MongoDB` `Tailwind`
 
-#### 📝 **TaskMaster - Scalable Task Management**
-> *State Management & Architecture*
-- **The Challenge:** Managing complex application state across 5+ component levels led to messy code.
-- **The Solution:** Implemented **React Context API** to globalize state, removing prop-drilling entirely.
-- **The Impact:** Improved render performance by **40%** and enabled full CRUD via **RESTful APIs**.
-- **Tech:** `React` `Context API` `Express` `MongoDB Atlas`
+---
 
-#### 🚢 **Battleship - Strategy Engine**
-> *Algorithm Design & TDD*
-- **The Challenge:** Building a bug-free game logic engine with complex validation rules.
-- **The Solution:** Adopted **Test-Driven Development (TDD)** with **Jest**, writing tests before code.
-- **The Impact:** Created a robust AI opponent using randomized smart-move algorithms.
-- **Tech:** `JavaScript (ES6+)` `Jest` `HTML5/CSS3`
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=120&section=footer"/>
+</div>
